@@ -107,7 +107,7 @@ AssertEquality (initialStack,StackContents [2.0;1.0])
 printf "T6..."
 AssertEquality (poppedStack, StackContents[1.0])
 printf "T7..."
-AssertEquality (popped2, 2.0)
+AssertEquality (popped2, 1.0)
 
 
 // ==============================================
